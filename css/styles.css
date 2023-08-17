@@ -1,52 +1,13 @@
 *{
-  padding: 0;
   margin: 0;
-  box-sizing: border-box;
-  font-family: 'chenla', DM Serif Text;
-  scroll-behavior: smooth;
-  list-style: none;
-  text decoration: none;
+  padding: 0;
+  font-family: chenla;
 }
-:root {
-  --main-color: #
-  --text-color: #
-  --bg-color: 
-}
-.hero{
-  height: 100vh;
+.banner{
   width: 100%;
-
+  height: 100vh;
+  background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(header.jpg);
+  background-size: cover;
+  background-position: center;
 }
-
-
-
-
-
-
-
-
-    text-align: center;
-    color: red;
-    .nav {
-        background-color: yellow;
-        list-style-type: chenla;
-        text-align: center; 
-        padding: 0;
-        margin: 0;
-      }
-      
-      .nav li {
-        display: inline-block;
-        font-size: 20px;
-        padding: 20px;
-      } 
-      img.b {
-        vertical-align: text-top;
-      }
-      
-  }
-  p {
-    text-align: center;
-    color: red;
-  }
   
