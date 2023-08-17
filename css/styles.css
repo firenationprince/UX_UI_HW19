@@ -1,4 +1,30 @@
-p {
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'chenla', DM Serif Text;
+  scroll-behavior: smooth;
+  list-style: none;
+  text decoration: none;
+}
+:root {
+  --main-color: #
+  --text-color: #
+  --bg-color: 
+}
+.hero{
+  height: 100vh;
+  width: 100%;
+
+}
+
+
+
+
+
+
+
+
     text-align: center;
     color: red;
     .nav {
@@ -23,3 +49,4 @@ p {
     text-align: center;
     color: red;
   }
+  
